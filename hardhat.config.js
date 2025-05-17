@@ -1,4 +1,4 @@
-require("@nomiclabs/hardhat-ethers");
+require("@nomicfoundation/hardhat-ethers");
 require('dotenv').config();
 
 /** @type import('hardhat/config').HardhatUserConfig */
